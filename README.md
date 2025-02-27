@@ -14,4 +14,4 @@ Copying, modification or commercial use of this code is strictly prohibited with
 
 Unauthorized use of this software may result in legal consequences.
 
-**In addition, the file is not fully verified, so I am not responsible for the loss of your data or anything else.**
+**In addition, the file is not fully verified, so I am not responsible for the loss of your data or anything else**
